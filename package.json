@@ -21,5 +21,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage" : "https://zhangyongwang4444.github.io/webpack-demo/build/index.html"
 }
