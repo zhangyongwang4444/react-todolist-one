@@ -6,7 +6,7 @@ function component() {
 }
 
 component()
-console.log(foo)
+// console.log(foo)
 console.log(foo())
 
 
