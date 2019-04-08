@@ -1,3 +1,11 @@
+import j from 'jquery'
 export default function () {
-    return 'FCH -- > floor cooling and heating '
+    let element = j('<div></div>')
+    element.html(_.join(['Hello', 'webpack'], ' '))
+
+    return element.get(0)
+
 }
+
+
+

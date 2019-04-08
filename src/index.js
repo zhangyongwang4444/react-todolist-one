@@ -8,3 +8,6 @@ function component() {
 component()
 console.log(foo)
 console.log(foo())
+
+
+document.body.appendChild(foo())
