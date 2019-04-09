@@ -8,7 +8,7 @@ import * as serviceWorker from './serviceWorker';
 import Welcome from './welcome'
 
 ReactDOM.render(
-    <Welcome />,
+    <Welcome  name="FCH"/>,
     document.getElementById('root')
 )
 
