@@ -16,3 +16,13 @@ code {
 h1 {
   text-align: center
 }
+
+div.dynamicUpdateTime {
+  text-align: center;
+  border: 1px solid #666666;
+}
+div.father{
+  border:1px solid red;
+  text-align: center;
+  padding:60px;
+}
