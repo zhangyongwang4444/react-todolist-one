@@ -5,10 +5,10 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 
-import Welcome from './welcome'
+import Welcome from './Welcome'
 
 ReactDOM.render(
-    <Welcome  name="FCH"/>,
+    <Welcome name="FCH001" />,
     document.getElementById('root')
 )
 
