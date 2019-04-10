@@ -24,6 +24,7 @@ class App extends Component {
         </li>
       )
     })
+    console.log('todos')
     console.log(todos)
     return (
       <div className="App">
