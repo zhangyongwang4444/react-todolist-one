@@ -4,11 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-
-import Baba from './Baba'
-
 ReactDOM.render(
-    <Baba />,
+    <App />,
     document.getElementById('root')
 )
 
