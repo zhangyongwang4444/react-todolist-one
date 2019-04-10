@@ -1,15 +1,15 @@
 {
-  "main.css": "/webpack-demo/build/static/css/main.3e474e03.chunk.css",
-  "main.js": "/webpack-demo/build/static/js/main.322fdd29.chunk.js",
-  "main.js.map": "/webpack-demo/build/static/js/main.322fdd29.chunk.js.map",
-  "runtime~main.js": "/webpack-demo/build/static/js/runtime~main.5141b3f3.js",
-  "runtime~main.js.map": "/webpack-demo/build/static/js/runtime~main.5141b3f3.js.map",
-  "static/css/2.6eed363f.chunk.css": "/webpack-demo/build/static/css/2.6eed363f.chunk.css",
-  "static/js/2.144dcb25.chunk.js": "/webpack-demo/build/static/js/2.144dcb25.chunk.js",
-  "static/js/2.144dcb25.chunk.js.map": "/webpack-demo/build/static/js/2.144dcb25.chunk.js.map",
-  "index.html": "/webpack-demo/build/index.html",
-  "precache-manifest.525b2007d1c150dbbbd385e30da7ec4f.js": "/webpack-demo/build/precache-manifest.525b2007d1c150dbbbd385e30da7ec4f.js",
-  "service-worker.js": "/webpack-demo/build/service-worker.js",
-  "static/css/2.6eed363f.chunk.css.map": "/webpack-demo/build/static/css/2.6eed363f.chunk.css.map",
-  "static/css/main.3e474e03.chunk.css.map": "/webpack-demo/build/static/css/main.3e474e03.chunk.css.map"
+  "main.css": "/react-todolist/build/static/css/main.3e474e03.chunk.css",
+  "main.js": "/react-todolist/build/static/js/main.ca2a5f60.chunk.js",
+  "main.js.map": "/react-todolist/build/static/js/main.ca2a5f60.chunk.js.map",
+  "runtime~main.js": "/react-todolist/build/static/js/runtime~main.035a3c40.js",
+  "runtime~main.js.map": "/react-todolist/build/static/js/runtime~main.035a3c40.js.map",
+  "static/css/2.6eed363f.chunk.css": "/react-todolist/build/static/css/2.6eed363f.chunk.css",
+  "static/js/2.144dcb25.chunk.js": "/react-todolist/build/static/js/2.144dcb25.chunk.js",
+  "static/js/2.144dcb25.chunk.js.map": "/react-todolist/build/static/js/2.144dcb25.chunk.js.map",
+  "index.html": "/react-todolist/build/index.html",
+  "precache-manifest.8dadae49ce0e254c627ec92466094d11.js": "/react-todolist/build/precache-manifest.8dadae49ce0e254c627ec92466094d11.js",
+  "service-worker.js": "/react-todolist/build/service-worker.js",
+  "static/css/2.6eed363f.chunk.css.map": "/react-todolist/build/static/css/2.6eed363f.chunk.css.map",
+  "static/css/main.3e474e03.chunk.css.map": "/react-todolist/build/static/css/main.3e474e03.chunk.css.map"
 }
